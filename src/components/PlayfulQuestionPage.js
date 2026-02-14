@@ -606,7 +606,7 @@ const PlayfulQuestionPage = ({ onYesClick, backgroundImage }) => {
       ))}
       
       <h1 className="playful-title">
-        Do You Love Me? 
+        Will You Be My Girlfriend? 
         <span className="title-emoji">💝</span>
       </h1>
       

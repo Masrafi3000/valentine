@@ -81,7 +81,7 @@ const QuestionPage = ({ onYesClick }) => {
       <div className="heart-float" style={{ animationDelay: '0.5s', left: '20%' }}>💖</div>
       <div className="heart-float" style={{ animationDelay: '1s', left: '80%' }}>💗</div>
       
-      <h1 className="question-title">Do You Love Me?</h1>
+      <h1 className="question-title">Will you be my girlfriend?</h1>
       <h2 className="question-subtitle">sweety? 💕</h2>
       
       {noButtonClicks > 0 && (
